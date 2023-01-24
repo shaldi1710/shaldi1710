@@ -1,6 +1,4 @@
 ### Hi there, Faishal here  👋
-
-<!--
  ✨ _welcome_ ✨ 
 
 Here are some ideas to get you started:
@@ -11,5 +9,3 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with friend
 - 💬 I'm open to collaborate or discussion about software development
 - 📫 How to reach me: shaldi1710
-
--->
