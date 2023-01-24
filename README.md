@@ -9,3 +9,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with friend
 - 💬 I'm open to collaborate or discussion about software development
 - 📫 How to reach me: shaldi1710
+
+### Rencana saya kepedepannya agar website saya dapat berkembang
+1. Tentukan Niche dengan Tepat
+2. Gunakan Google Analytics
+3. Monitor Penggunaan Resource
+4. Membuat Stagin Environment
+5. Gunakan Protokol HTTPS
+6. Meningkatkan Keamanan Website
+7. Meningkatkan Kecepatan Website
